@@ -1,6 +1,6 @@
 # FinTech Case Study
 
-*My goal is to create a more focused case study that analyzes how a FinTech company, JPM Coin, is responding to the problems and needs of the FinTech domain it is in, and how it is using technology to solve a standing financial problem.*
+## My goal is to create a more focused case study that analyzes how a FinTech company, JPM Coin, is responding to the problems and needs of the FinTech domain it is in, and how it is using technology to solve a standing financial problem.
 ---
 ![](https://www.adweek.com/wp-content/uploads/2019/02/jpm-coin-content-2019.png)
 
@@ -16,11 +16,11 @@ JP Morgan Chase December 1,2000 - JPM Coin February,2019
 
 * Who are the founders of the company? 	
 
-..* Balthazar P. Melick (Chemical Bank)
-..* John Pierpont Morgan (J.P. Morgan & Co.)
-..* Aaron Burr (The Manhattan Company)
-..* John Thompson(Chase National Bank)
-..* JPM Coin has found under the admisnitration of Jamie Dimon(CEO) who previously called Bitcoin a fraud:)
+  * Balthazar P. Melick (Chemical Bank)
+  * John Pierpont Morgan (J.P. Morgan & Co.)
+  * Aaron Burr (The Manhattan Company)
+  * John Thompson(Chase National Bank)
+  * JPM Coin has found under the admisnitration of Jamie Dimon(CEO) who previously called Bitcoin a fraud:)
 
 * How did the idea for the company (or project) come about? 
 
