@@ -101,14 +101,19 @@ Cuurently there are no other US Bank that has its own cryptocurrency.
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+
 The can start offering this service to their all clients/individuals
 
 * Why do you think that offering this product or service would benefit the company?
+
 JPM Coin will prove to be a valuable stepping stone en route to a new world built upon public distributed ledger technologies.
 
 * What technologies would this additional product or service utilize?
+
 JPM coin can utilize a application for its future JPM coin users/customers to buy and sell coin easily and purchase commodities via their coin.
+
 * Why are these technologies appropriate for your solution?
+By using web services/applications, they will be able to enhance their blockchain technology and accesibility of their cyrptocurrency.
 
 
 [Reference](https://www.ledger.com/academy/crypto/a-brief-history-on-bitcoin-cryptocurrencies)
