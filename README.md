@@ -113,6 +113,7 @@ JPM Coin will prove to be a valuable stepping stone en route to a new world buil
 JPM coin can utilize a application for its future JPM coin users/customers to buy and sell coin easily and purchase commodities via their coin.
 
 * Why are these technologies appropriate for your solution?
+
 By using web services/applications, they will be able to enhance their blockchain technology and accesibility of their cyrptocurrency.
 
 
