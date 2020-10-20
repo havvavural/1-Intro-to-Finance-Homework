@@ -1,6 +1,6 @@
 # FinTech Case Study
 
-## My goal is to create a more focused case study that analyzes how a FinTech company, JPM Coin, is responding to the problems and needs of the FinTech domain it is in, and how it is using technology to solve a standing financial problem.
+> "My goal is to create a more focused case study that analyzes how a FinTech company, JPM Coin, is responding to the problems and needs of the FinTech domain it is in, and how it is using technology to solve a standing financial problem."
 ---
 ![](https://www.adweek.com/wp-content/uploads/2019/02/jpm-coin-content-2019.png)
 
@@ -46,7 +46,7 @@ JPM Coin is currently a prototype that will be tested with a small number of J.P
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
-The commercial entities have started to adopt this blockchain technology in very serious ways and JP Morgan became the first U.S. bank to create and successfully test a digital coin representing a fiat currency. However they do not offer this service to individuals yet. It is only for their institutional clients. Only institutional customers passing J.P. Morgan KYC can transact with these coins. There is any other 
+The commercial entities have started to adopt this blockchain technology in very serious ways and JP Morgan became the first U.S. bank to create and successfully test a digital coin representing a fiat currency. However they do not offer this service to individuals yet. It is only for their institutional clients. Only institutional customers passing J.P. Morgan KYC can transact with these coins. There is no any other US bank that has its own cyrptocurrency other than JPM.
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
@@ -77,11 +77,12 @@ Blockchain and Cyrptocurrency
     * 2014-2016: Bitcoin price plummeted by 50% and did not recover to its initial price till late 2016. Cryptocurrency exchange hacks have remained ever-present since, though rarely of Mt.Gox’s caliber.
     * 30 July 2015: The Ethereum network, currently the number 2 crypto asset in terms of market capitalization, was launched. It brought smart contracts to the cryptocurrency world.
     * August 2015: First Initial Coin Offering (ICO) took place, being the Augur crypto asset. Like many others, the Augur ICO used the Ethereum network’s smart contract. Cryptoassets created through Ethereum’s smart contracts are generally known as ERC-20 tokens.
-    * 2015 – present: More and more ERC-20 tokens have been created. There are currently over 200 000 ERC-20 tokens with a market capitalization.
     * From there on: The cryptocurrency world has not stood still since. Prices reached an all-time highs in the beginning of January 2018 and many new crypto assets have joined since, including EOS (July 2017), Tron (September 2017) and Cardano (October 2017). The cryptocurrency market currently hosts over 2000 digital currencies and is still expanding.
+    
     Crypto assets equally continued to gain popularity to a point where adoption has become more important and more present. The amount of Bitcoin ATMs has continued to increase, more shops have started accepting cryptocurrencies as a method of payment and crypto assets are being used as a form of fundraising. 
 
 * What are the other major companies in this domain?
+
 Coinbase, Ripple, MakerDAO,Axoni,Chainalysis,Everledger, Ethereum
 
 ---
@@ -89,12 +90,16 @@ Coinbase, Ripple, MakerDAO,Axoni,Chainalysis,Everledger, Ethereum
 ## Results
 
 * What has been the business impact of this company so far?
-JP Morgan became the first U.S. bank to create and successfully test a digital coin representing a fiat currency.
+
+JP Morgan became the first U.S. bank to create and successfully test a digital coin representing a fiat currency. This affects other banks/companies to think about stepping into blockchain and cyrptocurrecy bussiness.
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
+Volume of the coin's transactions and usability of its in between people.
+
 * How is your company performing relative to competitors in the same domain?
-Cuurently there are no other US Bank that has its own cryptocurrency.
+
+Curently there is no other US Bank that has its own cryptocurrency.
 
 ---
 
