@@ -124,3 +124,5 @@ By using web services/applications, JPM Coin will be able to enhance their block
 [Reference](https://www.ledger.com/academy/crypto/a-brief-history-on-bitcoin-cryptocurrencies)
 
 [Reference](https://www.jpmorgan.com/solutions/cib/news/digital-coin-payments)
+
+Havva Vural
