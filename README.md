@@ -1,6 +1,6 @@
 # FinTech Case Study
 
-> "My goal is to create a more focused case study that analyzes how a JPM Coin(a FinTech compnay) is responding to the problems and needs of the FinTech domain it is in, and how it is using technology to solve a standing financial problem."
+> "My goal is to create a more focused case study that analyzes how a JPM Coin (a FinTech compnay) is responding to the problems and needs of the FinTech domain it is in, and how it is using technology to solve a standing financial problem."
 ---
 ![](https://www.adweek.com/wp-content/uploads/2019/02/jpm-coin-content-2019.png)
 
@@ -12,15 +12,13 @@ JPM Coin
 
 * When was the company incorporated? 
 
-JPM Coin February,2019
+JPM Coin February, 2019
 
 * Who are the founders of the company? 	
 
-  * JPM Coin has found under the admisnitration of Jamie Dimon(CEO)
+  * JPM Coin has been found under the admisnitration of Jamie Dimon(CEO)
 
 * How did the idea for the company (or project) come about? 
-
-> “So anything that currently exists in the world, as that moves onto the blockchain, this would be the payment leg for that transaction,” said Umar Farooq, head of J.P. Morgan’s blockchain projects.
 
 JPM Coin is a digital coin created to make fast payments via blockchain technology. Exchanching value between two parties using blockchain requires a digital currenty, so JP Morgan created the JPM Coin.
 
@@ -34,7 +32,10 @@ JPMorgan Chase invests $11 billion per year on technology.
 
 * What specific financial problem is the company or project trying to solve?
 
-JPM created this project to facilitate transactions between individuals or compnaies who would otherwise have no means to trust one another due to geographical separation, incompatibility, incompetence, expense, uncertainty, inconvenience or corruption of existing legal systems. 
+JPM created this project to facilitate transactions between individuals or companies who would otherwise have no means to trust one another due to geographical separation, incompatibility, incompetence, expense, uncertainty, inconvenience or corruption of existing legal systems. 
+
+> “So anything that currently exists in the world, as that moves onto the blockchain, this would be the payment leg for that transaction,” said Umar Farooq, head of J.P. Morgan’s blockchain projects.
+
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 
