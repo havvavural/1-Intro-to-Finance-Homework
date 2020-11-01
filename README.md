@@ -94,7 +94,7 @@ JP Morgan became the first U.S. bank to create and successfully test a digital c
 
 Volume of the transactions and usability between people. 
 
-The project is currently in a testing phase and has only been offered a small number of JPM's corporate clients. Therefore, JPM Coin's performance can't be properly measured and accurate right now. 
+The project is currently in a testing phase and has only been offered a small number of JPM's corporate clients. Therefore, JPM Coin's performance can't be properly measured at this stage. 
 
 * How is your company performing relative to competitors in the same domain?
 
