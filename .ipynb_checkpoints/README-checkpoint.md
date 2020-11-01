@@ -12,7 +12,7 @@ JPM Coin
 
 * When was the company incorporated? 
 
-JPM Coin February, 2019
+February, 2019
 
 * Who are the founders of the company? 	
 
@@ -43,11 +43,11 @@ JPM Coin is currently a prototype that will be tested with a small number of J.P
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
-Lately, most of the large companies have started to adopt blockchain technology in very serious ways and JP Morgan became the first U.S. bank to create and successfully test a digital coin representing a fiat currency. There is no any other US bank that has its own cyrptocurrency other than JPM.
+Lately, most of the large companies have started to adopt blockchain technology in very serious ways and JP Morgan became the first U.S. bank to create and successfully test a digital coin representing a fiat currency. Right now, there is no any other US bank that has its own cyrptocurrency other than JPM.
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
--Enterprise grade secure blockchain solutions built by J.P. Morgan and/or partners (Quorum Blockchain)
+Enterprise grade secure blockchain solutions built by J.P. Morgan and/or partners (Quorum Blockchain)
 
 ![](https://securecdn.pymnts.com/wp-content/uploads/2019/02/JPMorgan-Distributed-Ledger.png)
 
@@ -80,7 +80,7 @@ Blockchain and Cyrptocurrency
 
 * What are the other major companies in this domain?
 
-Coinbase, Ripple, MakerDAO,Axoni,Chainalysis,Everledger, Ethereum
+Coinbase, Ripple, MakerDAO, Axoni, Chainalysis, Everledger, Ethereum.
 
 ---
 
@@ -92,11 +92,13 @@ JP Morgan became the first U.S. bank to create and successfully test a digital c
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-Volume of the coin's transactions and usability of its in between people.
+Volume of the transactions and usability between people. 
+
+The project is currently in a testing phase and has only been offered a small number of JPM's corporate clients. Therefore, JPM Coin's performance can't be properly measured and accurate right now. 
 
 * How is your company performing relative to competitors in the same domain?
 
-Curently there is no other US Bank that has its own cryptocurrency.
+Curently, there is no other US Bank that has its own cryptocurrency.
 
 ---
 
@@ -112,11 +114,11 @@ JPM Coin will prove to be a valuable stepping stone en route to a new world buil
 
 * What technologies would this additional product or service utilize?
 
-JPM coin can utilize a application for its future JPM coin users/customers to buy and sell coin easily and purchase commodities via their coin.
+JPM coin can utilize a application for its future JPM coin users/customers to buy and sell coin easily and purchase commodities via coin.
 
 * Why are these technologies appropriate for your solution?
 
-By using web services/applications, they will be able to enhance their blockchain technology and accesibility of their cyrptocurrency.
+By using web services/applications, JPM Coin will be able to enhance their blockchain technology and accesibility of their cyrptocurrency.
 
 
 [Reference](https://www.ledger.com/academy/crypto/a-brief-history-on-bitcoin-cryptocurrencies)
