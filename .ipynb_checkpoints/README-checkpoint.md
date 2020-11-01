@@ -20,7 +20,7 @@ February, 2019
 
 * How did the idea for the company (or project) come about? 
 
-JPM Coin is a digital coin created to make fast payments via blockchain technology. Exchanching value between two parties using blockchain requires a digital currenty, so JP Morgan created the JPM Coin.
+JPM Coin is a digital coin created to make fast payments via blockchain technology. Exchanching value between two parties using blockchain requires a digital currency, so JP Morgan created the JPM Coin.
 
 * How is the company funded? How much funding have they received?
 
@@ -88,7 +88,7 @@ Coinbase, Ripple, MakerDAO, Axoni, Chainalysis, Everledger, Ethereum.
 
 * What has been the business impact of this company so far?
 
-JP Morgan became the first U.S. bank to create and successfully test a digital coin representing a fiat currency. This affects other banks/companies to think about stepping into blockchain and cyrptocurrecy bussiness.
+JP Morgan became the first U.S. bank to create and successfully test a digital coin representing a fiat currency. This may accelarate other banks/companies' plans to step into blockchain and cyrptocurrecy bussiness.
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
