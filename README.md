@@ -1,4 +1,4 @@
-# FinTech Case Study
+# finTech case study
 
 > "My goal is to create a more focused case study that analyzes how a JPM Coin (a FinTech compnay) is responding to the problems and needs of the FinTech domain it is in, and how it is using technology to solve a standing financial problem."
 ---
