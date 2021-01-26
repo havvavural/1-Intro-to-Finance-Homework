@@ -1,6 +1,6 @@
 # FinTech Case Study
 
-> "My goal is to create a more focused case study that analyzes how a JPM Coin (a FinTech compnay) is responding to the problems and needs of the FinTech domain it is in, and how it is using technology to solve a standing financial problem."
+> "My goal is to create a more focused case study that analyzes how a JPM Coin (a FinTech company) is responding to the problems and needs of the FinTech domain it is in, and how it is using technology to solve a standing financial problem."
 ---
 ![](https://www.adweek.com/wp-content/uploads/2019/02/jpm-coin-content-2019.png)
 
